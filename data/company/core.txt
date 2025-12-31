@@ -1,0 +1,21 @@
+MANUAL DE OPERAÇÕES INTERNAS - TECNOPROJETOS LTDA (2024)
+
+1. SOBRE A EMPRESA
+A Tecnoprojetos Ltda é uma empresa focada em soluções de energia solar sediada em Curitiba.
+
+2. CÓDIGOS DE SEGURANÇA
+O acesso ao servidor principal (Mainframe-X) é protegido pela chave alfa-numérica: "SOLAR-9922-TECH".
+O alarme do galpão de estoque deve ser desativado até as 07:45 da manhã todos os dias úteis.
+
+3. POLÍTICA DE VIAGENS
+Funcionários de nível Pleno têm direito a um reembolso diário de R$ 150,00 para alimentação.
+Funcionários de nível Sênior possuem teto de reembolso de R$ 250,00.
+Todas as notas fiscais devem ser enviadas para o e-mail financeiro@tecnoprojetos.com.br em até 5 dias úteis.
+
+4. PROJETO TITÃ
+O Projeto Titã é a nossa iniciativa secreta para baterias de grafeno. 
+O coordenador responsável é o Engenheiro Ricardo Montenegro.
+A data prevista para o lançamento do protótipo é 15 de novembro de 2025.
+
+5. CONTATOS DE EMERGÊNCIA
+Em caso de vazamento químico, ligue para o ramal 404 e procure por Sarah Connor na ala sul.

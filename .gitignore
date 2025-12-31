@@ -1,0 +1,15 @@
+# Dependências
+node_modules/
+dist/
+
+# Variáveis de ambiente (Segurança!)
+.env
+
+# Armazenamento Local e Logs
+storage/
+logs/
+#data/
+
+# Sistema
+.DS_Store
+npm-debug.log*
